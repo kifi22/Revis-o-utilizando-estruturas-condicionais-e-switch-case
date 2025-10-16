@@ -1,0 +1,182 @@
+let Nome_1 = "Pedro"
+let idade_1 = 18
+let genero_1 = "Masculino"
+let email_1 = "Pedro.rei_delas@gmail.com"
+
+
+{
+    if(idade_1 >= 18)
+    if(genero_1 === "Masculino" || "Feminino")
+{
+    switch(idade_1){
+        case idade_1:
+        case genero_1:
+        console.log("Nome: " + Nome_1)
+        console.log("Idade: " + idade_1)
+        console.log("Email: " + email_1)
+        console.log("Está permitido a entrada")
+        break
+    }
+}
+
+
+let Farol = "Vermelho"
+let policial = true
+let documentos = false
+
+{
+    if(Farol === "Vermelho")
+    {
+        switch(Farol){
+            case Farol:
+                 console.log("O farol está " + Farol + " voçê não poder")
+            break
+        }
+    }
+}
+
+{
+    if(Farol === "Amarelo")
+    {
+        switch(Farol){
+            case Farol:
+                console.log("O farol está " + Farol + " fique atento, voçê ainda não pode passar")
+            break
+        }
+    }
+}
+
+{
+    if(Farol === "Verde")
+    {
+        switch(Farol){
+            case Farol:
+                console.log("O farol está " + Farol + " Voçê pode passar")
+            break
+        }
+    }
+}
+
+{
+    if(policial === true)
+    {
+        switch(policial){
+            case policial:
+                console.log("Voçê está com seus documentos ?")
+            break
+        }
+    }
+
+    if(documentos === true)
+    {
+        switch(documentos){
+            case documentos:
+                console.log("Sim. Estou com meus documentos !")
+                console.log("Voçê pode seguir !")
+            break
+        }
+    }
+
+    if(documentos === false)
+    {
+        switch(documentos){
+            case documentos:
+                console.log("Não. não estou com meus documentos !")
+                console.log("Voçê será retido. Por favor saia do carro !")
+            break
+        }
+    }
+}
+
+}
+let Nome_1 = "Pedro"
+let idade_1 = 18
+let genero_1 = "Masculino"
+let email_1 = "Pedro.rei_delas@gmail.com"
+
+
+{
+    if(idade_1 >= 18)
+    if(genero_1 === "Masculino" || "Feminino")
+{
+    switch(idade_1){
+        case idade_1:
+        case genero_1:
+        console.log("Nome: " + Nome_1)
+        console.log("Idade: " + idade_1)
+        console.log("Email: " + email_1)
+        console.log("Está permitido a entrada")
+        break
+    }
+}
+
+
+let Farol = "Vermelho"
+let policial = true
+let documentos = false
+
+{
+    if(Farol === "Vermelho")
+    {
+        switch(Farol){
+            case Farol:
+                 console.log("O farol está " + Farol + " voçê não poder")
+            break
+        }
+    }
+}
+
+{
+    if(Farol === "Amarelo")
+    {
+        switch(Farol){
+            case Farol:
+                console.log("O farol está " + Farol + " fique atento, voçê ainda não pode passar")
+            break
+        }
+    }
+}
+
+{
+    if(Farol === "Verde")
+    {
+        switch(Farol){
+            case Farol:
+                console.log("O farol está " + Farol + " Voçê pode passar")
+            break
+        }
+    }
+}
+
+{
+    if(policial === true)
+    {
+        switch(policial){
+            case policial:
+                console.log("Voçê está com seus documentos ?")
+            break
+        }
+    }
+
+    if(documentos === true)
+    {
+        switch(documentos){
+            case documentos:
+                console.log("Sim. Estou com meus documentos !")
+                console.log("Voçê pode seguir !")
+            break
+        }
+    }
+
+    if(documentos === false)
+    {
+        switch(documentos){
+            case documentos:
+                console.log("Não. não estou com meus documentos !")
+                console.log("Voçê será retido. Por favor saia do carro !")
+            break
+        }
+    }
+}
+
+}
